@@ -1,4 +1,5 @@
 Overview
+
 This repository contains code and analysis steps for an RNA-seq study designed to investigate gene expression dynamics in different cellular states. Specifically, the study compares gene expression between three distinct IMR90 fibroblast cell types:
 
 Proliferating Cells (Proliferating)
@@ -7,6 +8,7 @@ Replicative Senescent Cells with Depleted Mitochondria (Mitochondria-Depleted Se
 The analysis involves various statistical and bioinformatics methods, including Principal Component Analysis (PCA), Volcano Plots, Heatmaps, Pathway Analysis, and Gene Expression Comparison, to better understand the molecular signatures of these different cell types and how mitochondrial depletion affects cellular senescence.
 
 Purpose of the Analysis
+
 The purpose of this analysis is to:
 
 Identify and compare gene expression patterns between proliferating cells, senescent cells, and mitochondria-depleted senescent cells.
@@ -15,6 +17,7 @@ Characterize molecular pathways implicated in senescence and mitochondrial dysfu
 Generate visualizations to help interpret complex gene expression data and discover underlying biological mechanisms.
 
 Steps and Methodology
+
 The analysis consists of several stages, each designed to answer a specific research question:
 
 1. Data Quality Control and Preprocessing
